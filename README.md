@@ -1,4 +1,4 @@
-# 🍫 Chocolate Sales Analysis with Clustering and PCA
+# 🍫 Chocolate Sales Analysis
 
 This project is a full data analysis pipeline on the [Chocolate Sales Dataset](https://www.kaggle.com/datasets/atharvasoundankar/chocolate-sales), designed to explore sales behavior, profitability, and commercial segmentation using clustering and PCA.
 
@@ -25,11 +25,9 @@ The main goals of this project are:
 
 ```bash
 .
-├── report.ipynb   # Main Jupyter Notebook with all analysis
-├── README.md                 # This file
-├── requirements.txt          # List of Python dependencies
-└── data/
-    └── Chocolate Sales.csv   # Raw dataset from Kaggle
+├── report.ipynb
+├── README.md
+├── requirements.txt
 ```
 
 ## Setup Instructions
