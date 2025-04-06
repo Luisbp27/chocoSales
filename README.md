@@ -1,6 +1,6 @@
 # 🍫 Chocolate Sales Analysis
 
-This project is a full data analysis pipeline on the [Chocolate Sales Dataset](https://www.kaggle.com/datasets/atharvasoundankar/chocolate-sales), designed to explore sales behavior, profitability, and commercial segmentation using clustering and PCA.
+This report is a data analysis pipeline on the [Chocolate Sales Dataset](https://www.kaggle.com/datasets/atharvasoundankar/chocolate-sales), designed to explore sales behavior, profitability, and commercial segmentation using clustering and PCA.
 
 ---
 
