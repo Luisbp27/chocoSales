@@ -1,2 +1,6 @@
 pandas
 kagglehub
+seaborn
+matplotlib
+scikit-learn
+plotly
